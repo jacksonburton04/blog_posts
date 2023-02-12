@@ -1,7 +1,7 @@
-# offroadanalyst.com Blog Post Code
+# Related Blog Code: offroadanalyst.com
 Sharing various code from my offroadanalyst.com blog posts
 
-# Project 001: Pinkbike Academy YouTube Comment Analysis
+### Project 001: Pinkbike Academy YouTube Comment Analysis
 - The code is a Python script that retrieves and processes YouTube video data, including video IDs, comments, and sentiment analysis.
 - It uses the requests library to make API requests to the YouTube API and retrieve video data.
 - The data is processed and stored in Pandas DataFrames for analysis and manipulation.
